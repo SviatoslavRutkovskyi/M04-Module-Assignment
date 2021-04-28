@@ -14,10 +14,10 @@ body {
     overflow: auto;
 }
 .heading {
-    font-family: 'BebasNeueBold';
-   font-weight: normal;
-   font-style: normal;
-   font-size: 48px;
+    font-family: 'BananaBrickRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 32px;
 }
 
 #nav, #feature, #footer {
