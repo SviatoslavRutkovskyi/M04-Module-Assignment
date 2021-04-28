@@ -7,16 +7,28 @@
 body {
     width: 90%;
     margin: 0 auto;
+    background-image: url(images/background2.jpg);
+    background-size: cover;
 }
 #content {
     overflow: auto;
+}
+.heading {
+    font-family: 'BebasNeueBold';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 48px;
 }
 
 #nav, #feature, #footer {
     margin: 1%;
 }
 #feature {
-    background-color: #66ff33;
+    background-color: #66ff66;
+    background-image: url("images/mountain.jpg");
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
 }
 #footer {
     background-color: #ffcc66;
